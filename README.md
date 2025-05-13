@@ -167,7 +167,6 @@ After clicking **"Scheduled query rule"**, you’ll see the **Analytics rule det
      - **🎯 Initial Access**
      - **🔑 Credential Access**
       
-![Screenshot 2025-01-14 103734](https://github.com/user-attachments/assets/f6558c4d-585b-4e63-b787-1cc071cc0ad0)
 
 5. **Rule type**:  
    - Select **Scheduled 🕒**.
